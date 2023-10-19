@@ -1,4 +1,4 @@
 # test
 test用リポジトリ
 
-aiueod
+aiueo
